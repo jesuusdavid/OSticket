@@ -25,6 +25,7 @@
 *modificaremos el nombre del archivo ost-sampleconfig.php por ost-config.php*
 ![](images/9.png)
 </br>
+</br>
 ![](images/10.png)
 </br>
 *una vez echo eso ya nos dejaria ir al siguiente paso*
