@@ -1,5 +1,7 @@
 ##OSTICKET##
+</br>
 ###Preparación para instalar###
+</br>
 -Necesitas descargarte el [OSTICKET](https://osticket.com/download/) desde su web de descargas.
 -Descargamos [Xampp](https://www.apachefriends.org/es/download.html) desde su web oficial.
 </br>
